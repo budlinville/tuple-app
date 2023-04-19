@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../tuple"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"typescript.tsdk": "tuple/node_modules/typescript/lib"
+	}
+}
